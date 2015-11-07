@@ -1,2 +1,2 @@
 # ois.co.ke
-Website for Open Information System
+Website for Open Information Systems
